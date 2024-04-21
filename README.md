@@ -1,5 +1,10 @@
 # IAL C Data Structures
 
+## Author
+
+- **Name:** Maksim Kalutski
+- **Login:** xkalut00
+
 This repository contains implementations of various data structures in C, specifically focusing on lists and queues. Each implementation follows the guidelines provided by the faculty of Information Technology, Brno University of Technology as part of their Algorithms course.
 
 ## Files
